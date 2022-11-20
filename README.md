@@ -16,6 +16,11 @@ Mastodon is free and open-source software for running self-hosted social network
 In this tutorial, we will show you how to install Mastodon on Ubuntu 22.04.
 ```
 
+***Fix for no CSS after installation:***
+```
+chmod o+x /home/mastodon
+```
+
 Getting Started
 
 First, it is recommended to update all your system packages with the latest version. You can do it by running the following command:
