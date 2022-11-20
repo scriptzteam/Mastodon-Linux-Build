@@ -9,7 +9,7 @@ Release:        22.04
 Codename:       jammy
 ```
 
-***About Mastodon:***
+***About:***
 ```
 Mastodon is free and open-source software for running self-hosted social networking services. It offers microblogging features that allow you to follow other users and post messages and images with Mastodon. It is written in Ruby and JavaScript and supports audio, video and picture posts, accessibility descriptions, polls, content warnings, animated avatars, custom emojis, and more. Mastodon offers an application for various platforms like Android and iOS.
 
